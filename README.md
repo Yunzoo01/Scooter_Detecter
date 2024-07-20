@@ -1,18 +1,18 @@
-# Scooter_Detecter
-###### This project is still in progress. I wanted to create an AI model that detects scooters within cctv, but the YOLOv5 I used was not enough to detect small objects within CCTV. So I first created an AI model that detects large objects. I'm going to re-project using Faster R-CNN with higher accuracy.
-##### This project is a project to create AI models using YOLOv5. I made AI that detects whether a driver is wearing a helmet or not, and detects if there are more than one driver. I also created an AI model that detects scooters because I aimed to detect them within CCTV. The data set is not included in the code.
+# Scooter_Detector
 
-## 🌻Features
+## 🌻Description
+This project aims to create AI models using YOLOv5. The models detect whether a driver is wearing a helmet, detect multiple passengers, and detect scooters for potential CCTV applications. The dataset is not included in the code.
+
 - Detecting if the driver is wearing a helmet(Helmet_best.pt)
 - Detecting two or more drivers(Multi_passenger3.pt)
 - Detecting scooters (Scooter_best.pt)
 
-## 🌻Project Environment
+## 🌻Getting Started
 - Python Version : Python 10
 - Development IDE : PyCharm 2023 Community Edition
 - Frameworks and Tools :
-  - YOLOv5 : Utilized for object detection, acquired from its GitHub repository.
-  - LabelImg : Used for image annotation, downloaded from its GitHub repository.
+  - YOLOv5 : Utilized for object detection, acquired from its [GitHub repository](https://github.com/ultralytics/yolov5).
+  - LabelImg : Used for image annotation, downloaded from its [GitHub repository](https://github.com/tzutalin/labelImg).
 - Operating System :
   - Initial development on Windows.
   - Subsequent development and testing on Kali Linux.
