@@ -16,6 +16,11 @@ This project aims to create AI models using YOLOv5. The models detect whether a 
 - Operating System :
   - Initial development on Windows.
   - Subsequent development and testing on Kali Linux.
+ 
+## 🌻AI Architecture 
+![201911471 학술제_0001](https://github.com/user-attachments/assets/7057dfd0-6b41-4a9a-8311-e145075f695b)
+![201911471 학술제_0002](https://github.com/user-attachments/assets/2c93ad80-8cb9-4b71-a5aa-f4b033e76aa6)
+
 
 ## 🌻Application Screenshot
 ### ▪️ Labeling
